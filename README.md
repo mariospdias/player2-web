@@ -1,7 +1,7 @@
 # player2-web
 
-<img src="sample-image-1.png" alt="exemplo imagem">
-<img src="sample-image-2.png" alt="exemplo imagem">
+<img src="https://github.com/mariospdias/player2-web/blob/5670d793d2b5af878d139c077ba9fcd2f6478ef1/sample-image1.png" alt="exemplo imagem">
+<img src="https://github.com/mariospdias/player2-web/blob/5670d793d2b5af878d139c077ba9fcd2f6478ef1/sample-image2.png?" alt="exemplo imagem">
 
 > O front-end web da aplicação Player2 exibe os games disponíveis e possibilita a criação de novos anúncios para encontrar outras pessoas para jogar.
 
